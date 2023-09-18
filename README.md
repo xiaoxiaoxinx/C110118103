@@ -81,3 +81,16 @@ Strikethrough uses two tildes. ~~Scratch this~~.
     + note 1
     - note 2
     * note 3
+  
+  
+python code
+```python
+s = "Python syntax highlighting"
+print s
+```
+
+Javascript code
+```javascript
+var s = "JavaScript syntax highlighting"
+alert(s);
+```
