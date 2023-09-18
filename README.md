@@ -44,12 +44,11 @@ print(s)
 :moneybag: :timer_clock: :white_check_mark:
 :100:
 
-| Left Aligned  |  Center Aligned  | Right Aligned |
-| :------------ | :--------------: | ------------: |
-| col 3 is      | `some wordly text` |         *$1600* |
-| col 2 is      |     centered     |           ~~$12~~ |
-| zebra stripes |     are neat     |            $1 |
-| test          |      **測試.**       |         $3333 |
+| Left          | Center           | Right        |
+| :------------ | :--------------: | ------------:|
+| col 3 is      |  right-aligned   | `$1600`      |
+| col 2 is      |  centered        | **$12**      |
+| zeber stripes |  are neat        | *$1*         |
 
 > 新北市
 > > 板橋區
