@@ -72,7 +72,7 @@ Strikethrough uses two tildes. ~~Scratch this~~.
 1.First order list item
 
 2. Another item
-   * Unordered sub-list
+   ..* Unordered sub-list
 
 3. Actual numbers don't matter , just that it's a number.
 
