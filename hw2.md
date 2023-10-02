@@ -1,8 +1,8 @@
-#  甘特圖 word/excel
+#  甘特圖 
 
 ![NKUST](甘特圖.jpg "甘特圖")
 
-#  PERT圖 手畫
+#  PERT圖 
 
 
 #  關鍵路徑 
