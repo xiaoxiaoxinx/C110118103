@@ -1,6 +1,6 @@
 #  甘特圖 word/excel
 
-![NKUST](nkust.png "NKUST")
+![NKUST](甘特圖.jpg "甘特圖")
 
 #  PERT圖 手畫
 
