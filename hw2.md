@@ -1,10 +1,10 @@
 #  甘特圖 
-#### Mermaid
+### Mermaid
 ```mermaid
-gannt
+gantt
     title C110118103
 
-    section
+    section Section
     研擬計畫       :a1, 2023-10-01,1d
     任務分配       :a2, after a1,4d
     取得硬體       :a3, after a1,17d
