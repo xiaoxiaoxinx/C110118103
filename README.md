@@ -100,3 +100,37 @@ Javascript code
 var s = "JavaScript syntax highlighting"
 alert(s);
 ```
+
+
+
+
+
+
+
+#  甘特圖 
+### Mermaid
+```mermaid
+gantt
+    title 第二組
+
+    section 研擬計畫
+       1:a1, 2023-10-01,1d
+    section 任務分配
+       1:a2, after a1,1d
+    section 搜集資料
+       3:a3, after a2,3d
+    section 建置開發環境
+       5:a4, after a3,5d
+    section 建置資料庫
+       5:a5, after a4,5d
+    section 後端開發
+       35:a6, after a5,35d
+    section 程式測試
+       10:a8, after a7,10d
+    section 撰寫使用手冊
+       10:a9, after a5,10d
+    section 使用者訓練
+       15:a10, after a7,15d
+    section 使用者測試
+       10:a11, after a10,10d
+```
