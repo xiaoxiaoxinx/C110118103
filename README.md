@@ -126,11 +126,11 @@ gantt
     section 後端開發
        35:a6, after a5,35d
     section 程式測試
-       10:a8, after a7,10d
+       10:a7, after a6,10d
     section 撰寫使用手冊
-       10:a9, after a5,10d
+       10:a8, after a5,10d
     section 使用者訓練
-       15:a10, after a7,15d
+       15:a9, after a6,15d
     section 使用者測試
-       10:a11, after a10,10d
+       10:a10, after a9,10d
 ```
